@@ -1,0 +1,48 @@
+{
+    "chat.unifiedAgentsBar.enabled": true,
+    // Workbench Controls
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dark Modern",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "window.restoreWindows": "none",
+    "workbench.activityBar.location": "top",
+    "explorer.compactFolders": false,
+    "workbench.browser.showInTitleBar": false,
+    // Workbench layout and navigation controls
+    "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "chat.titleBar.openInAgentsWindow.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.statusBar.visible": true,
+    "window.titleBarStyle": "custom",
+    "workbench.editor.labelFormat": "short",
+    // Workbench Status Bar Controls
+    "workbench.colorCustomizations": {
+        "statusBarItem.remoteBackground": "#1E1E1E",
+        "statusBarItem.remoteForeground": "#7F7F82",
+        "statusBar.background": "#252526",          // Background when a folder is open
+        "statusBar.foreground": "#7F7F82",          // Text color
+        "statusBar.noFolderBackground": "#252526",  // Background when no folder is open
+        "statusBar.debuggingBackground": "#7F7F82" // Background when debugging
+    },
+    // Editor Controls
+    "editor.minimap.enabled": false,
+    // "editor.glyphMargin": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.rulers": [80, 120],
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    // Terminal
+    "terminal.integrated.fontFamily": "JetBrains Mono Nerd Font",
+    //Fonts
+    "fonted.font": "JetBrains Mono",
+    "terminal.integrated.fontSize": 15,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true, // Ex. =>, != 
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+
+}
