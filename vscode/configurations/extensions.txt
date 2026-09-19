@@ -1,0 +1,17 @@
+Extensions installed on WSL: Ubuntu:
+cweijan.chat-copilot
+davidanson.vscode-markdownlint
+dbdiagram.dbdiagram-vscode
+donjayamanne.githistory
+eamodio.gitlens
+hashicorp.terraform
+james-yu.latex-workshop
+mermaidchart.vscode-mermaid-chart
+mhutchie.git-graph
+ms-python.autopep8
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-python.vscode-python-envs
+oderwat.indent-rainbow
+sirtori.indenticator
