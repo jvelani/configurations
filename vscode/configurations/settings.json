@@ -3,7 +3,7 @@
     // Workbench Controls
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Dark Modern",
-    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredDarkColorTheme": "Dark Modern",
     "window.restoreWindows": "none",
     "workbench.activityBar.location": "top",
     "explorer.compactFolders": false,
@@ -29,12 +29,10 @@
     // Editor Controls
     "editor.minimap.enabled": false,
     // "editor.glyphMargin": false,
-    "editor.renderLineHighlight": "gutter",
     "editor.rulers": [80, 120],
-    "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
-    "editor.scrollbar.horizontal": "hidden",
-    "editor.scrollbar.vertical": "hidden",
+    // "editor.scrollbar.horizontal": "hidden",
+    // "editor.scrollbar.vertical": "hidden",
     // Terminal
     "terminal.integrated.fontFamily": "JetBrains Mono Nerd Font",
     //Fonts
@@ -43,6 +41,5 @@
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true, // Ex. =>, != 
     "editor.fontSize": 14,
-    "editor.lineHeight": 1.8,
-
+    "editor.lineHeight": 1.8
 }
