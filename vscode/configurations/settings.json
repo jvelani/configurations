@@ -41,5 +41,8 @@
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true, // Ex. =>, != 
     "editor.fontSize": 14,
-    "editor.lineHeight": 1.8
+    "editor.lineHeight": 1.8,
+    "excalidraw.theme": "dark",
+    "hediet.vscode-drawio.resizeImages": null,
+    "hediet.vscode-drawio.appearance": "dark"
 }
