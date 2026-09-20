@@ -44,5 +44,6 @@
     "editor.lineHeight": 1.8,
     "excalidraw.theme": "dark",
     "hediet.vscode-drawio.resizeImages": null,
-    "hediet.vscode-drawio.appearance": "dark"
+    "hediet.vscode-drawio.appearance": "dark",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
 }

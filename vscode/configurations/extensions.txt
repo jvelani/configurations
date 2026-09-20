@@ -1,6 +1,8 @@
 Extensions installed on WSL: Ubuntu:
+christian-kohler.path-intellisense
 cweijan.chat-copilot
 davidanson.vscode-markdownlint
+dbaeumer.vscode-eslint
 dbdiagram.dbdiagram-vscode
 donjayamanne.githistory
 eamodio.gitlens
