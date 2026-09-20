@@ -1,19 +1,26 @@
 Extensions installed on WSL: Ubuntu:
+barisozgenn.meshgraph
 christian-kohler.path-intellisense
+chrmarti.regex
 cweijan.chat-copilot
+cweijan.vscode-office
 davidanson.vscode-markdownlint
-dbaeumer.vscode-eslint
 dbdiagram.dbdiagram-vscode
 donjayamanne.githistory
 eamodio.gitlens
 hashicorp.terraform
 james-yu.latex-workshop
+mechatroner.rainbow-csv
 mermaidchart.vscode-mermaid-chart
+mgesbert.python-path
 mhutchie.git-graph
 ms-python.autopep8
 ms-python.debugpy
+ms-python.isort
+ms-python.mypy-type-checker
 ms-python.python
 ms-python.vscode-pylance
 ms-python.vscode-python-envs
 oderwat.indent-rainbow
 sirtori.indenticator
+tyriar.luna-paint
