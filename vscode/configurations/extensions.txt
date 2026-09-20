@@ -22,5 +22,6 @@ ms-python.python
 ms-python.vscode-pylance
 ms-python.vscode-python-envs
 oderwat.indent-rainbow
+redhat.vscode-yaml
 sirtori.indenticator
 tyriar.luna-paint
