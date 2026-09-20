@@ -23,9 +23,5 @@
     {
         "key": "ctrl+f9",
         "command": "editor.debug.action.selectionToRepl"
-    },
-    {
-        "key": "ctrl+alt+w",
-        "command": "workbench.action.toggleActivityBarVisibility"
     }
 ]
